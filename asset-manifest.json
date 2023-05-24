@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/InformesSeguridad/static/css/main.dd5c4514.css",
-    "main.js": "/InformesSeguridad/static/js/main.0237c7dd.js",
+    "main.js": "/InformesSeguridad/static/js/main.b309a9ad.js",
     "index.html": "/InformesSeguridad/index.html",
     "main.dd5c4514.css.map": "/InformesSeguridad/static/css/main.dd5c4514.css.map",
-    "main.0237c7dd.js.map": "/InformesSeguridad/static/js/main.0237c7dd.js.map"
+    "main.b309a9ad.js.map": "/InformesSeguridad/static/js/main.b309a9ad.js.map"
   },
   "entrypoints": [
     "static/css/main.dd5c4514.css",
-    "static/js/main.0237c7dd.js"
+    "static/js/main.b309a9ad.js"
   ]
 }
