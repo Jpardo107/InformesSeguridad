@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InformesSeguridad/static/css/main.dd5c4514.css",
+    "main.js": "/InformesSeguridad/static/js/main.52d41be0.js",
+    "index.html": "/InformesSeguridad/index.html",
+    "main.dd5c4514.css.map": "/InformesSeguridad/static/css/main.dd5c4514.css.map",
+    "main.52d41be0.js.map": "/InformesSeguridad/static/js/main.52d41be0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5c4514.css",
+    "static/js/main.52d41be0.js"
+  ]
+}
