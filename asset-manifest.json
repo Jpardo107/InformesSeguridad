@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/InformesSeguridad/static/css/main.dd5c4514.css",
-    "main.js": "/InformesSeguridad/static/js/main.b309a9ad.js",
+    "main.css": "/InformesSeguridad/static/css/main.087c1bbe.css",
+    "main.js": "/InformesSeguridad/static/js/main.9d7f6b3a.js",
+    "static/media/carbon.png": "/InformesSeguridad/static/media/carbon.893be6de7e357f229b29.png",
     "index.html": "/InformesSeguridad/index.html",
-    "main.dd5c4514.css.map": "/InformesSeguridad/static/css/main.dd5c4514.css.map",
-    "main.b309a9ad.js.map": "/InformesSeguridad/static/js/main.b309a9ad.js.map"
+    "main.087c1bbe.css.map": "/InformesSeguridad/static/css/main.087c1bbe.css.map",
+    "main.9d7f6b3a.js.map": "/InformesSeguridad/static/js/main.9d7f6b3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd5c4514.css",
-    "static/js/main.b309a9ad.js"
+    "static/css/main.087c1bbe.css",
+    "static/js/main.9d7f6b3a.js"
   ]
 }
